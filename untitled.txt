@@ -1,0 +1,10 @@
+1. create a to do list.
+2. Add to the <li></li> tag and append it to the container.
+3. Then add a date to the <li></li> tag
+4.  
+
+5. font-family: 'Raleway', sans-serif;
+
+#271f39;
+
+headerElement.textContent = `Task Added on ${newDate.getFullYear()}.${newDate.getMonth()}.${newDate.getDate()} at ${hour}:${minute}m ${second}s`;
